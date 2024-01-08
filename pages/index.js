@@ -135,7 +135,8 @@ export default function Example() {
             Books for people who hate being bored 
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-             Hot Second Books publishes <span className="italic">fast</span>, <span className="italic">powerful</span> fiction for readers who want to be <span className="text-red-600">entertained</span>, <span className="text-red-600">inspired</span> and <span className="text-red-600">expanded.</span>  We&apos;re also an <span>online book boutique</span>, curating used fiction, art editions and other culture-shifting books.
+             Hot Second Books publishes <span className="italic">fast</span>, <span className="italic">powerful</span> fiction for readers who want a yarn, not a yawn. We&apos;re also an <span>online book boutique</span>, curating used fiction, art editions and other culture-shifting books.<br></br><br></br>
+             {/* We&apos;re here to <span className="text-red-600">entertain</span>, <span className="text-red-600">inspire</span> and <span className="text-red-600">expand</span> your human experience.  */}
             </p>
             <p className="mt-6 text-lg leading-8 text-gray-600">
             
