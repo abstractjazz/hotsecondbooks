@@ -132,10 +132,10 @@ export default function Example() {
           </div>
           <div className="text-left">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-            Books for people who hate being bored 
+            Books, Black Creativity and Global Community. 
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-             Hot Second Books publishes <span className="italic">fast</span>, <span className="italic">powerful</span> fiction to <span className="text-red-600">entertain</span>, <span className="text-red-600">inspire</span> and <span className="text-red-600">expand</span> your human experience. We&apos;re also an <span>online book boutique</span>, curating used fiction, art editions and other culture-shifting books.<br></br><br></br>
+             Hot Second Books is an <span>online book boutique</span>, curating primarily good-condition used fiction, art, and select non-fiction. We celebrate the diverse African Disaspora. We believe in creative expression as a tool for liberation.
              {/* for readers who want a yarn, not a yawn.  */}
           
             </p>
@@ -143,12 +143,12 @@ export default function Example() {
             
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a
-                href="#"
+              <Link href="https://shop.hotsecondbooks.com">
+               
                 className="rounded-md bg-red-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-red-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-              >
+          
                Shop Now
-              </a>
+               </Link>
               {/* <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
                 Learn more <span aria-hidden="true">→</span>
               </a> */}
