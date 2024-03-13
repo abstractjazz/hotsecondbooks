@@ -136,7 +136,7 @@ export default function Example() {
             Books, Black Creativity and Global Community. 
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-             Hot Second Books is an <span>online used book boutique</span>, curating good-condition fiction, art, poetry and select non-fiction. We celebrate the diverse African Disaspora. We believe creative expression is a tool for liberation.
+             Hot Second Books is an <span>online used book boutique</span>,curating primarily fiction, art, and poetry. We celebrate the diverse African Disaspora. We believe creative expression is a tool for liberation.
              {/* for readers who want a yarn, not a yawn.  */}
           
             </p>
