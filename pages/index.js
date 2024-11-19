@@ -3,7 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import useEffect from 'react';
 import Link from 'next/link';
-import Script from 'next/script';
+// import Script from 'next/script';
 
 import { useState } from 'react'
 import { Dialog } from '@headlessui/react'
@@ -36,7 +36,7 @@ export default function Example() {
       </Head>
      
       <header className="absolute inset-x-0 top-0 z-50">
-      <Script     
+      {/* <Script     
       src="https://bookshop.org/widgets.js"
       data-type="search"
       data-include-branding="false"
@@ -50,7 +50,7 @@ export default function Example() {
         data-full-info="true"
         data-affiliate-id="104073"
         data-sku="9781501126079">
-      </script>
+      </script> */}
 
         <nav className="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
           <div className="flex lg:flex-1">
@@ -160,7 +160,7 @@ export default function Example() {
           </div>
           <div className="text-left">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-            Creativity and Global Community. 
+            Liberatory Creativity and Global Community. 
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
              Hot Second Books is a publisher and <span>online used book boutique</span>. We publish approachable, innovative, page-turning fiction. We also curate used fiction, art, fashion, design and poetry. We believe creative expression is a tool for liberation.
