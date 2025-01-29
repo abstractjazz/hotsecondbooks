@@ -161,10 +161,10 @@ export default function Example() {
           </div>
           <div className="text-left">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-            Fast-paced fiction that breaks the rules.
+            Fast-paced fiction that breaks the rules
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-             Hot Second Books is a publisher of stories made to push fiction forward. We put new voices in new formats for people who are tired of the same old tale.
+             Hot Second Books makes stories that push fiction forward. We put new voices in new formats for people who are tired of the same old tale.
              {/* for readers who want a yarn, not a yawn.  */}
           
             </p>
