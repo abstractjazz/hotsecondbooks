@@ -160,10 +160,10 @@ export default function Example() {
           </div>
           <div className="text-left">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-            Liberatory Creativity and Global Community. 
+            Fast-paced, boundary-breaking fiction. 
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-             Hot Second Books is a publisher and <span>online used book boutique</span>. We publish approachable, innovative, page-turning fiction. We also curate used fiction, art, fashion, design and poetry. We believe creative expression is a tool for liberation.
+             Hot Second Books is a publisher of stories that push fiction forward. We put new voices in new formats for people who are tired of hearing the same old tale.
              {/* for readers who want a yarn, not a yawn.  */}
           
             </p>
